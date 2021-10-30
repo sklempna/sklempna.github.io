@@ -3,21 +3,27 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading">Follow us here:</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">
+          <li class="p-name"> Booking & Everything else:
+            <!--
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
+            -->
             </li>
+            
+            <!--
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a class="u-email" href="mailto:{{ site.email }}">Contact: {{ site.email }}</a></li>
             {%- endif -%}
+            -->
+            <li><a class="u-email" href="mailto:bandcerebralinvasion@gmail.com">bandcerebralinvasion@gmail.com</li>
         </ul>
       </div>
 
@@ -26,7 +32,13 @@
       </div>
 
       <div class="footer-col footer-col-3">
+        <ul>
+          <li><a href="https://cerebralinvasion.bandcamp.com"><span class="username">bandcamp</span></a></li>
+          <li><a href="https://open.spotify.com/artist/3ORji0q2JI385aRurdzdjK?si=xqQoMBaBSDiHSEFoH1PRlQ&nd=1">spotify</a></li>
+        </ul>
+        <!--
         <p>{{- site.description | escape -}}</p>
+        -->
       </div>
     </div>
 
