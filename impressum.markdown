@@ -3,7 +3,7 @@ layout: page
 title: Impressum
 permalink: /impressum/
 ---
-## Disclaimer (scroll down for a german version):
+## Disclaimer (scroll down for german version):
 
 ### Liability for contents
 
