@@ -18,6 +18,6 @@ Cerebral invasion is (from left to right):
 - Dominik (guitar)
 - Mahmood (vocals)
 - Absorber (guitar)
-- Olli (bass)
+- Olli (bass) (former member)
 
 Photo by [Tom Row](https://frontrowimages.com/)
