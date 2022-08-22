@@ -7,7 +7,9 @@ permalink: /live/
 
 ## Past shows
 
-- [22.08.2022 Essen - Turock Open Air](https://turock.de/festival/infos) w. Cannibal Corpse, Primordial, Rage,
+- [22.08.2022 Essen - Turock Open Air](https://turock.de/festival/infos) w. Cannibal Corpse, Primordial, Rage, ...
+
+- [11.03.2022 Oberhausen - Kulttempel](https://www.kulttempel.com/kt-dp/2810) w. Eradicator, FireForce, Bunghole, ...
 
 - [19.02.2022 Essen - Don't Panic](https://www.facebook.com/events/dont-panic-essen/arroganz-infest-cerebral-invasion-pr%C3%A4sentiert-von-leaven-entertainment/319533999719251/) w. Kadaverficker, Arroganz
 
