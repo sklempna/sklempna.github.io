@@ -9,6 +9,10 @@ permalink: /live/
 
 - [22.08.2022 Essen - Turock Open Air](https://turock.de/festival/infos) w. Cannibal Corpse, Primordial, Rage, ...
 
+- [11.06.2022 Bochum - Matrix](https://matrix-bochum.de/event/death-dta-support-matrix-bochum/) w. Death to all
+
+- [26.03.2022 Lünen - Lükaz](https://www.luenen.de/leben-in-luenen/kultur-veranstaltungen/luekaz/veranstaltung-anzeigen/event/132646) w. Denial of god, Nocturnal
+
 - [11.03.2022 Oberhausen - Kulttempel](https://www.kulttempel.com/kt-dp/2810) w. Eradicator, FireForce, Bunghole, ...
 
 - [19.02.2022 Essen - Don't Panic](https://www.facebook.com/events/dont-panic-essen/arroganz-infest-cerebral-invasion-pr%C3%A4sentiert-von-leaven-entertainment/319533999719251/) w. Kadaverficker, Arroganz
